@@ -1,7 +1,7 @@
 Introdução
 ============
 
-Hello World! Paper towns! Paper houses and paper peoples.
+Paper Towns
 
 
 .. index:: lorem, ipsum
